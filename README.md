@@ -1,0 +1,1 @@
+This script created for online blurring of faces from a webcam
